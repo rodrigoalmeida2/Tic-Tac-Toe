@@ -1,2 +1,2 @@
-# Tic-Tac-Toe
-Implementing tic tac toe game in JAVA
+# Games
+Implementing several tipes of games in JAVA
